@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-printer-discovery"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS printer-discovery component - printing"
+
+[lib]
+name = "printer_discovery"
+path = "src/lib.rs"
