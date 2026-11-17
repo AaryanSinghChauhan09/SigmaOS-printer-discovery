@@ -3,7 +3,7 @@ name = "SigmaOS-printer-discovery"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "printer-discovery component"
+description = "Printer Discovery"
 upstream = []
 
 [contract]
